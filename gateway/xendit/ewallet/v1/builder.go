@@ -4,7 +4,7 @@ import (
   goxendit "github.com/xendit/xendit-go"
   "github.com/xendit/xendit-go/ewallet"
 
-  "github.com/imrenagi/go-payment/invoice"
+  "github.com/FlaBBB/go-payment/invoice"
 )
 
 // Deprecated: newBuilder generate legacy ewallet body request for xendit. This API is

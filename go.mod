@@ -1,4 +1,4 @@
-module github.com/imrenagi/go-payment
+module github.com/FlaBBB/go-payment
 
 go 1.17
 

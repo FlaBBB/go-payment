@@ -1,8 +1,8 @@
 package manage
 
 import (
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/config"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/config"
 )
 
 func paymentMethodListFromConfig(cfg *config.PaymentConfig, subtotal *payment.Money) *PaymentMethodList {

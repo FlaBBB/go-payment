@@ -7,10 +7,10 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/config"
-	"github.com/imrenagi/go-payment/gateway/xendit"
-	"github.com/imrenagi/go-payment/invoice"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/config"
+	"github.com/FlaBBB/go-payment/gateway/xendit"
+	"github.com/FlaBBB/go-payment/invoice"
 )
 
 // ProcessDANACallback process dana payment notification from xendit

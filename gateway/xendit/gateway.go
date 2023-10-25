@@ -3,7 +3,7 @@ package xendit
 import (
 	"context"
 
-	"github.com/imrenagi/go-payment/util/localconfig"
+	"github.com/FlaBBB/go-payment/util/localconfig"
 	"github.com/xendit/xendit-go"
 	xgo "github.com/xendit/xendit-go"
 	"github.com/xendit/xendit-go/client"

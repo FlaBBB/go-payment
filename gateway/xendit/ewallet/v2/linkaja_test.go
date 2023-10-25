@@ -8,8 +8,8 @@ import (
   "github.com/xendit/xendit-go"
   "github.com/xendit/xendit-go/ewallet"
 
-  . "github.com/imrenagi/go-payment/gateway/xendit/ewallet/v2"
-  "github.com/imrenagi/go-payment/invoice"
+  . "github.com/FlaBBB/go-payment/gateway/xendit/ewallet/v2"
+  "github.com/FlaBBB/go-payment/invoice"
 )
 
 func TestLinkAjaCharge(t *testing.T) {

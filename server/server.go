@@ -9,11 +9,11 @@ import (
 
 	"gorm.io/gorm"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/gateway/midtrans"
-	"github.com/imrenagi/go-payment/gateway/xendit"
-	"github.com/imrenagi/go-payment/invoice"
-	"github.com/imrenagi/go-payment/manage"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/gateway/midtrans"
+	"github.com/FlaBBB/go-payment/gateway/xendit"
+	"github.com/FlaBBB/go-payment/invoice"
+	"github.com/FlaBBB/go-payment/manage"
 )
 
 func migrate(db *gorm.DB) {

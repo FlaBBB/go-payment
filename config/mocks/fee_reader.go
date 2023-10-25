@@ -3,10 +3,10 @@
 package mocks
 
 import (
-	config "github.com/imrenagi/go-payment/config"
+	config "github.com/FlaBBB/go-payment/config"
 	mock "github.com/stretchr/testify/mock"
 
-	payment "github.com/imrenagi/go-payment"
+	payment "github.com/FlaBBB/go-payment"
 
 	time "time"
 )

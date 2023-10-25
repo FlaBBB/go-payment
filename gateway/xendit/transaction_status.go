@@ -4,7 +4,7 @@ import (
   "fmt"
   "time"
 
-  "github.com/imrenagi/go-payment"
+  "github.com/FlaBBB/go-payment"
 )
 
 // EWalletPaymentStatus stores callback information for xendit ewallet

@@ -3,8 +3,8 @@ package ewallet_test
 import (
   "time"
 
-  "github.com/imrenagi/go-payment"
-  "github.com/imrenagi/go-payment/invoice"
+  "github.com/FlaBBB/go-payment"
+  "github.com/FlaBBB/go-payment/invoice"
 )
 
 var fakeDueDate = time.Date(2021, 1, 1, 0, 0, 0, 0, time.UTC )

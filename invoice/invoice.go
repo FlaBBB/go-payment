@@ -7,8 +7,8 @@ import (
 
 	"gorm.io/gorm"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/config"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/config"
 
 	"github.com/google/uuid"
 )

@@ -6,11 +6,11 @@ import (
 	"github.com/xendit/xendit-go/ewallet"
 	xinvoice "github.com/xendit/xendit-go/invoice"
 
-	"github.com/imrenagi/go-payment"
-	v1 "github.com/imrenagi/go-payment/gateway/xendit/ewallet/v1"
-	v2 "github.com/imrenagi/go-payment/gateway/xendit/ewallet/v2"
-	"github.com/imrenagi/go-payment/gateway/xendit/xeninvoice"
-	"github.com/imrenagi/go-payment/invoice"
+	"github.com/FlaBBB/go-payment"
+	v1 "github.com/FlaBBB/go-payment/gateway/xendit/ewallet/v1"
+	v2 "github.com/FlaBBB/go-payment/gateway/xendit/ewallet/v2"
+	"github.com/FlaBBB/go-payment/gateway/xendit/xeninvoice"
+	"github.com/FlaBBB/go-payment/invoice"
 )
 
 // NewEWalletChargeRequestFromInvoice create ewallet charge params for xendit ewallet API

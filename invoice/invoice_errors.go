@@ -3,7 +3,7 @@ package invoice
 import (
 	"fmt"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 )
 
 type InvoiceError struct {

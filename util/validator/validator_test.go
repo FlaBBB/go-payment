@@ -3,7 +3,7 @@ package validator_test
 import (
 	"testing"
 
-	. "github.com/imrenagi/go-payment/util/validator"
+	. "github.com/FlaBBB/go-payment/util/validator"
 )
 
 func TestEmailValidator_IsValid(t *testing.T) {

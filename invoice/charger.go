@@ -3,7 +3,7 @@ package invoice
 import (
 	"context"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 )
 
 // PaymentCharger will call the API

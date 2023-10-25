@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/gateway/midtrans/snap"
-	"github.com/imrenagi/go-payment/invoice"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/gateway/midtrans/snap"
+	"github.com/FlaBBB/go-payment/invoice"
 	midsnap "github.com/midtrans/midtrans-go/snap"
 	"github.com/stretchr/testify/assert"
 )

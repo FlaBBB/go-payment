@@ -7,11 +7,11 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/gateway/xendit/recurring"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/gateway/xendit/recurring"
 
-	"github.com/imrenagi/go-payment/gateway/xendit"
-	"github.com/imrenagi/go-payment/subscription"
+	"github.com/FlaBBB/go-payment/gateway/xendit"
+	"github.com/FlaBBB/go-payment/subscription"
 
 	goxendit "github.com/xendit/xendit-go"
 	xrecurring "github.com/xendit/xendit-go/recurringpayment"

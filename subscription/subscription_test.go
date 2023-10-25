@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/imrenagi/go-payment/invoice"
+	"github.com/FlaBBB/go-payment/invoice"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 
-	. "github.com/imrenagi/go-payment/subscription"
-	sm "github.com/imrenagi/go-payment/subscription/mocks"
+	. "github.com/FlaBBB/go-payment/subscription"
+	sm "github.com/FlaBBB/go-payment/subscription/mocks"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

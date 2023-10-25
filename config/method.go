@@ -3,7 +3,7 @@ package config
 import (
 	"encoding/json"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 )
 
 // NewNonCardPayment returns new NonCardPayment. if value is not nil, the admin fee of this payment method

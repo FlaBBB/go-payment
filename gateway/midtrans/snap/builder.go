@@ -9,7 +9,7 @@ import (
 	"github.com/midtrans/midtrans-go"
 	"github.com/midtrans/midtrans-go/snap"
 
-	"github.com/imrenagi/go-payment/invoice"
+	"github.com/FlaBBB/go-payment/invoice"
 )
 
 func newBuilder(inv *invoice.Invoice) *builder {

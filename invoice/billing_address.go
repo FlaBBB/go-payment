@@ -3,8 +3,8 @@ package invoice
 import (
 	"fmt"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/util/validator"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/util/validator"
 )
 
 var (

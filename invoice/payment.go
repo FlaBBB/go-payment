@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/config"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/config"
 )
 
 func NewPayment(cfg config.FeeConfigReader, payType payment.PaymentType, ccDetail *CreditCardDetail) (*Payment, error) {

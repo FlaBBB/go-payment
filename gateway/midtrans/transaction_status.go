@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 )
 
 // TransactionStatus is object used to store notification from midtrans

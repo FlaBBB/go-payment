@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/gateway/midtrans"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/gateway/midtrans"
 	"gorm.io/gorm"
 	"github.com/rs/zerolog"
 )

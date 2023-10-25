@@ -6,7 +6,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 )
 
 // Card represent the credit card payment config retrieved from the yaml config file

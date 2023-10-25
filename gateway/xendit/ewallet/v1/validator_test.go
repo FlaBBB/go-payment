@@ -5,7 +5,7 @@ import (
 
   "github.com/stretchr/testify/assert"
 
-  "github.com/imrenagi/go-payment/gateway/xendit/ewallet/v1"
+  "github.com/FlaBBB/go-payment/gateway/xendit/ewallet/v1"
 )
 
 func TestOvoLegacyPhoneValidator_IsValid(t *testing.T) {

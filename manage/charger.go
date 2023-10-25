@@ -8,13 +8,13 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/imrenagi/go-payment"
-	midfactory "github.com/imrenagi/go-payment/gateway/midtrans"
-	midgateway "github.com/imrenagi/go-payment/gateway/midtrans"
-	"github.com/imrenagi/go-payment/gateway/xendit"
-	factory "github.com/imrenagi/go-payment/gateway/xendit"
-	"github.com/imrenagi/go-payment/invoice"
-	"github.com/imrenagi/go-payment/util/localconfig"
+	"github.com/FlaBBB/go-payment"
+	midfactory "github.com/FlaBBB/go-payment/gateway/midtrans"
+	midgateway "github.com/FlaBBB/go-payment/gateway/midtrans"
+	"github.com/FlaBBB/go-payment/gateway/xendit"
+	factory "github.com/FlaBBB/go-payment/gateway/xendit"
+	"github.com/FlaBBB/go-payment/invoice"
+	"github.com/FlaBBB/go-payment/util/localconfig"
 
 	goxendit "github.com/xendit/xendit-go"
 )

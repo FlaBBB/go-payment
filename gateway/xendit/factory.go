@@ -1,8 +1,8 @@
 package xendit
 
 import (
-	"github.com/imrenagi/go-payment"
-	"github.com/imrenagi/go-payment/subscription"
+	"github.com/FlaBBB/go-payment"
+	"github.com/FlaBBB/go-payment/subscription"
 )
 
 // NewStatus convert xendit status string to subscripiton status

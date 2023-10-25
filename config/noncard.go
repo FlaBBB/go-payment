@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 )
 
 // NonCard represent the configuration for non cards payment (ewallet, retail outlet, cardless credit,

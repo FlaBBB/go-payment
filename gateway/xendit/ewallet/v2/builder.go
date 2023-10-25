@@ -6,7 +6,7 @@ import (
   goxendit "github.com/xendit/xendit-go"
   xenewallet "github.com/xendit/xendit-go/ewallet"
 
-  "github.com/imrenagi/go-payment/invoice"
+  "github.com/FlaBBB/go-payment/invoice"
 )
 
 type EWalletTypeEnum string

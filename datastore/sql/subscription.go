@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/imrenagi/go-payment/subscription"
+	"github.com/FlaBBB/go-payment/subscription"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 	"gorm.io/gorm"
 	"github.com/rs/zerolog"
 )

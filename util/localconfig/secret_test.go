@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	. "github.com/imrenagi/go-payment/util/localconfig"
+	. "github.com/FlaBBB/go-payment/util/localconfig"
 	"github.com/stretchr/testify/assert"
 )
 

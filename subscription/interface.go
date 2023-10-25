@@ -5,7 +5,7 @@ package subscription
 import (
 	"context"
 
-	"github.com/imrenagi/go-payment"
+	"github.com/FlaBBB/go-payment"
 )
 
 type gateway interface {

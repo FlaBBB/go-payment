@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/imrenagi/go-payment/config"
-	cfgm "github.com/imrenagi/go-payment/config/mocks"
-	dsm "github.com/imrenagi/go-payment/datastore/mocks"
-	. "github.com/imrenagi/go-payment/invoice"
+	"github.com/FlaBBB/go-payment/config"
+	cfgm "github.com/FlaBBB/go-payment/config/mocks"
+	dsm "github.com/FlaBBB/go-payment/datastore/mocks"
+	. "github.com/FlaBBB/go-payment/invoice"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )
